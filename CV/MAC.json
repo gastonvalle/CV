@@ -1,0 +1,295 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gastón",
+      "surnames": "Valle",
+      "title": "Product Manager at LIFULL Connect | Lean & Agile Coach",
+      "description": "I help individuals, teams, and organizations to drive their Agile and digital transformation. With a focus on creating great products. Leading the change process through continuous improvement. Making sure we understand all aspects of the changes and bring the best of each individual.\n\nI’m a software engineer with 15+ years of experience in different industries and types of organizations, with a strong technical background and very enthusiastic about team dynamics and people relationships. I have experience in leading teams and make them get the best version of themselves. \n\nAfter almost 9 years I decided to shift my career towards a Scrum Master and Agile Coaching guided by my passion for Agile and mainly the human values that are involved. I love working with people and teams to help them to get the most of them and find new ways of working, perspectives, and mindset.\n\nIn the last few years, I’ve seen that a systemic and organizational approach to change management is a must to enable real agility. That’s why I work at all levels of the change (personal, teams, organizational structure, processes, strategy, leadership, and culture), so the continuous improvement is done organically.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gastonvalle/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Dec 2014 - Jan 2017 "
+        },
+        "roles": [
+          {
+            "name": "Scrum Master - Technology & Innovation Lead",
+            "startDate": "2022-12-04",
+            "challenges": [
+              {
+                "description": "Scrum Master - Technology & Innovation Lead"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "May 2019 - Feb 2020 "
+        },
+        "roles": [
+          {
+            "name": "Product Owner",
+            "startDate": "2022-12-04",
+            "challenges": [
+              {
+                "description": "Product Owner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jun 2017 - Nov 2020 "
+        },
+        "roles": [
+          {
+            "name": "Agile Coach",
+            "startDate": "2022-12-04",
+            "challenges": [
+              {
+                "description": "Agile Coach"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LIFULL Connect "
+        },
+        "roles": [
+          {
+            "name": "Product Manager",
+            "startDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Agile & Product Coach",
+            "startDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Salle BCN"
+        },
+        "roles": [
+          {
+            "name": "Lecturer in Agile Methodologies",
+            "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Taught +400 students with sessions, in Spanish and English, on Agile methodologies to several Masters including :\nMaster in Project Management (MPM)\nMaster in Administration of Information Technology (MGTI)\nPostgraduate in Agile Methodologies (PMA)\n\nI enjoy a lot bringing new ways of working and different mindset to the students. Making them think out of the box, exploring new approaches to manage their work.\nThese are very practical sessions covering Agile basics, Scrum, Kanban and LEAN principles with particular focus on Scrum as a framework to work with different types of projects, not only software. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Product Monster "
+        },
+        "roles": [
+          {
+            "name": "Teacher & Entrepreneur",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "3 yrs 6 mos"
+        },
+        "roles": [
+          {
+            "name": "MANGO",
+            "startDate": "2017-06-01",
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": "Agile Coach"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "2 yrs 7 mos"
+        },
+        "roles": [
+          {
+            "name": "GFT Group",
+            "startDate": "2016-01-01",
+            "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": "Agile Coach"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rule Financial"
+        },
+        "roles": [
+          {
+            "name": "Technical Lead & Scrum Master",
+            "startDate": "2010-05-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Advanced Logistics Group"
+        },
+        "roles": [
+          {
+            "name": ".Net Senior Developer - Architect",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Beyond Patagonia"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer .Net",
+            "startDate": "2006-02-01",
+            "finishDate": "2008-07-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Marketing Plus S.A."
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2005-02-01",
+            "finishDate": "2006-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airtable",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/gastonvalle/"
+        }
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
