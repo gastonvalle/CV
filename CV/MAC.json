@@ -382,6 +382,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor of Engineering - BE, Software Engineering",
+        "startDate": "2001-03-01",
+        "finishDate": "2007-11-01",
+        "institution": {
+          "name": "University of Buenos Aires",
+          "URL": "https://www.fi.uba.ar/"
+        }
+      }
     ]
   },
   "careerPreferences": {
