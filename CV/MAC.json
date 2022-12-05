@@ -391,7 +391,11 @@
         "startDate": "2021-07-01",
         "institution": {
           "name": "Management 3.0",
-          "description": "Credential ID: 210695217"
+          "description": "Credential ID: 210695217",
+          "image": {
+            "alt": "1546243653373.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/f85660e9-3bcd-47d6-bf33-9369a5cfb98d_1546243653373.jpg"
+          }
         }
       },
       {
