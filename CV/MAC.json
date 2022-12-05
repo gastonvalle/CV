@@ -431,7 +431,11 @@
         "startDate": "2019-05-01",
         "institution": {
           "name": "LCM Association",
-          "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP"
+          "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP",
+          "image": {
+            "alt": "1646312286016.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/27a855f0-c645-4112-b47f-2bbb769bb25b_1646312286016.jpg"
+          }
         }
       },
       {
