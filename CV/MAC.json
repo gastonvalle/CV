@@ -90,6 +90,10 @@
       {
         "organization": {
           "name": "MANGO",
+          "image": {
+            "alt": "MNG.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/433460f4-99bd-48b4-a351-39cd2de0ac3e_mng.png"
+          },
           "URL": "http://www.mango.com"
         },
         "roles": [
