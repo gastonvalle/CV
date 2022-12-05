@@ -285,6 +285,20 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "CAS 2016 - Design Sprint for Inceptions",
+          "description": "Workshop to expriment how to do a desing sprint in the context of an inception of a product",
+          "URL": "https://www.slideshare.net/GastonValle/design-sprint-for-inceptions-cas-2016"
+        },
+        "type": "talk",
+        "publishingDate": "2016-10-01",
+        "tags": [
+          "Design Sprint"
+        ]
+      }
     ]
   },
   "knowledge": {
