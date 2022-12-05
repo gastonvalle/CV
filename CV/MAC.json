@@ -445,6 +445,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum@Scale Practitioner",
+        "startDate": "2017-04-01",
+        "institution": {
+          "name": "Scrum, Inc.",
+          "URL": "http://scrumlab.scruminc.com"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
