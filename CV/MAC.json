@@ -152,11 +152,12 @@
       },
       {
         "organization": {
-          "name": "GFT Group"
+          "name": "GFT Group",
+          "URL": "http://www.gft.com"
         },
         "roles": [
           {
-            "name": "GFT Group",
+            "name": "Agile Coach",
             "startDate": "2016-01-01",
             "finishDate": "2017-06-30",
             "challenges": [
