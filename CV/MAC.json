@@ -411,7 +411,11 @@
         "startDate": "2020-08-01",
         "institution": {
           "name": "Purpose Alliance",
-          "URL": "https://scq.io/AyNULiU"
+          "URL": "https://scq.io/AyNULiU",
+          "image": {
+            "alt": "1663240963503.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/e2e70d34-0696-4aa2-9b9a-19158674221b_1663240963503.jpg"
+          }
         }
       },
       {
