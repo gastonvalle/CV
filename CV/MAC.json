@@ -289,6 +289,17 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "CAS 2017 - Guía de autocrecimiento del Scrum Master",
+          "URL": "https://www.youtube.com/watch?v=U8rjnCqkELM"
+        },
+        "type": "talk",
+        "publishingDate": "2017-12-01",
+        "tags": [
+          "Agile"
+        ]
+      },
+      {
+        "details": {
           "name": "CAS 2016 - Design Sprint for Inceptions",
           "description": "Workshop to expriment how to do a desing sprint in the context of an inception of a product",
           "URL": "https://www.slideshare.net/GastonValle/design-sprint-for-inceptions-cas-2016"
