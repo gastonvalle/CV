@@ -405,6 +405,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Puepose Mentor",
+        "startDate": "2020-08-01",
+        "institution": {
+          "name": "Purpose Alliance",
+          "URL": "https://scq.io/AyNULiU"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
