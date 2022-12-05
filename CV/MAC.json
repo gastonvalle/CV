@@ -475,6 +475,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum Product Owner (CSPO)",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Scrum Alliance",
+          "URL": "https://www.scrumalliance.org/community/profile/gvalle3"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
