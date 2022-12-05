@@ -385,6 +385,16 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Management 3.0",
+        "startDate": "2021-07-01",
+        "institution": {
+          "name": "Management 3.0",
+          "description": "Credential ID: 210695217"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
