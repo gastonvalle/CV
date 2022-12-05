@@ -135,16 +135,17 @@
       },
       {
         "organization": {
-          "name": "3 yrs 6 mos"
+          "name": "MANGO",
+          "URL": "http://www.mango.com"
         },
         "roles": [
           {
-            "name": "MANGO",
+            "name": "Agile Coach",
             "startDate": "2017-06-01",
             "finishDate": "2020-11-30",
             "challenges": [
               {
-                "description": "Agile Coach"
+                "description": "Leading the Agile transformation of the IT department. Working as part of IT Governance with the CIO to define the vision and strategy of change. Working to build closer relations with business, improve processes and quality, and create a collaboration culture. \n\nMain responsibilities:\n- Build a team of coaches and Scrum Masters \n- Define and evolve the strategy and implement changes iteratively. \n- Build the new organizational design to enable the agility\n- Introduce DevOps culture (plus tools and processes)\n- Work on the culture and leadership\n- Mentoring Scrum Masters \n- Coaching teams"
               }
             ]
           }
