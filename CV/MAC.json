@@ -465,6 +465,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum Master (CSM)",
+        "startDate": "2016-02-01",
+        "institution": {
+          "name": "Scrum Alliance",
+          "URL": "https://www.scrumalliance.org/community/profile/gvalle3"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
