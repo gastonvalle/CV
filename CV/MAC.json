@@ -425,6 +425,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Lean Change Management Explorer",
+        "startDate": "2019-05-01",
+        "institution": {
+          "name": "LCM Association",
+          "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
