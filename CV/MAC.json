@@ -455,7 +455,11 @@
         "startDate": "2017-04-01",
         "institution": {
           "name": "Scrum, Inc.",
-          "URL": "http://scrumlab.scruminc.com"
+          "URL": "http://scrumlab.scruminc.com",
+          "image": {
+            "alt": "1563287885876.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/b4735cd4-46d5-4315-9b77-02f1e4040c94_1563287885876.jpg"
+          }
         }
       },
       {
