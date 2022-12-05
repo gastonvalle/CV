@@ -421,7 +421,11 @@
         "startDate": "2020-07-01",
         "institution": {
           "name": "OpenExO",
-          "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b"
+          "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b",
+          "image": {
+            "alt": "1532276337497.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7286c514-1592-40c8-bc0e-936f7b5317d9_1532276337497.jpg"
+          }
         }
       },
       {
