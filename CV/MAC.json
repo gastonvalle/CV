@@ -465,7 +465,11 @@
         "startDate": "2016-06-01",
         "institution": {
           "name": "The LeSS Company",
-          "URL": "https://less.works/certificates/1398"
+          "URL": "https://less.works/certificates/1398",
+          "image": {
+            "alt": "1519902869095.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/590a9d04-e0f5-4698-8eba-f5494d6bd46c_1519902869095.jpg"
+          }
         }
       },
       {
