@@ -43,22 +43,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Dec 2014 - Jan 2017 "
-        },
-        "roles": [
-          {
-            "name": "Scrum Master - Technology & Innovation Lead",
-            "startDate": "2022-12-04",
-            "challenges": [
-              {
-                "description": "Scrum Master - Technology & Innovation Lead"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "May 2019 - Feb 2020 "
         },
         "roles": [
@@ -178,6 +162,24 @@
             "challenges": [
               {
                 "description": "Agile Coach"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GFT Group",
+          "URL": "http://www.gft.com"
+        },
+        "roles": [
+          {
+            "name": "Scrum Master - Technology & Innovation Lead",
+            "startDate": "2014-12-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Scrum Master - Technology & Innovation Lead"
               }
             ]
           }
