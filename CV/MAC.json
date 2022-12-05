@@ -43,22 +43,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "May 2019 - Feb 2020 "
-        },
-        "roles": [
-          {
-            "name": "Product Owner",
-            "startDate": "2022-12-04",
-            "challenges": [
-              {
-                "description": "Product Owner"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Jun 2017 - Nov 2020 "
         },
         "roles": [
@@ -130,6 +114,24 @@
             "name": "Teacher & Entrepreneur",
             "startDate": "2020-07-01",
             "finishDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MANGO",
+          "URL": "http://www.mango.com"
+        },
+        "roles": [
+          {
+            "name": "Product Owner",
+            "startDate": "2019-05-01",
+            "finishDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": "Launched Clienteling MVP, enabling new ways of customer acquisition and identification. As the first step to assist clients in stores. \n• Employee services & support portal for HQ and stores. Created a unique and direct channel for any need that any employee had at any time.\n \nMain responsibilities:\n • Manage Product Backlog. Defining epics and user stories in collaboration with stakeholders and the dev team\n • Coordinate the relationship with and between stakeholders\n • Prioritize and make decisions together with the Stakeholders\n • Analyse the result of the product\nCoach and collaborate with the team to evolve functionalities and processes"
+              }
+            ]
           }
         ]
       },
