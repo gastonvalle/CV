@@ -387,6 +387,18 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Master's degree , MMA, Master in Agile Methods",
+        "startDate": "2016-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "La Salle BCN",
+          "description": "Graduated with first class honours",
+          "URL": "https://www.salleurl.edu"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Bachelor of Engineering - BE, Software Engineering",
         "startDate": "2001-03-01",
         "finishDate": "2007-11-01",
