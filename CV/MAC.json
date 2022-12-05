@@ -401,7 +401,11 @@
         "startDate": "2020-10-01",
         "institution": {
           "name": "Social Enterprise España",
-          "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/"
+          "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/",
+          "image": {
+            "alt": "1519874257176.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7e6efd36-c260-4f75-8528-a15997c5b207_1519874257176.jpg"
+          }
         }
       },
       {
