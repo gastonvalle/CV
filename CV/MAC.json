@@ -197,7 +197,25 @@
             "finishDate": "2014-12-31",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "- __Rule Architecture Visualiser (Scrum Master)__\n   -Design and development of a WPF application for document assembly and bulk generation.\n   -Team: 1 Scrum Master, 4 developers, 1 tester \n\n- __Legal Agreement Assembly Project (Team/Scrum Master)__\n   - Design and development of a WPF / Office Add-ins application for document assembly and bulk generation.\n\n- __Prime Brokerage Project (Team/Tech Lead)__\n   - Implemented and designed several reconciliation processes from external feeds into a custom trade model. \n   - Design, implementation and technical lead for an internal WPF and web UI Prime Broker application spanning from support to reporting, risk and collateral management.  \n   - Role: Dev team member as a technical lead and helping the Scrum Master that was on the client side in London. \n"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "WPF",
+                "type": "technology"
               }
             ]
           }
