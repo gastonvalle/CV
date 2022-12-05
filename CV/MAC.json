@@ -395,6 +395,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programa Social Impact Doers",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "Social Enterprise España",
+          "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
