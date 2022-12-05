@@ -415,6 +415,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ExO Foundations",
+        "startDate": "2020-07-01",
+        "institution": {
+          "name": "OpenExO",
+          "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
