@@ -455,6 +455,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Less Practitioner",
+        "startDate": "2016-06-01",
+        "institution": {
+          "name": "The LeSS Company",
+          "URL": "https://less.works/certificates/1398"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
