@@ -75,22 +75,6 @@
       },
       {
         "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Agile & Product Coach",
-            "startDate": "2019-12-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "La Salle BCN"
         },
         "roles": [
