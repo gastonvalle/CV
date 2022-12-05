@@ -445,7 +445,11 @@
         "startDate": "2019-04-01",
         "institution": {
           "name": "ICAgile",
-          "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c"
+          "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c",
+          "image": {
+            "alt": "1596209405253.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/9e152d39-3de6-4883-8448-aa65985899bf_1596209405253.jpg"
+          }
         }
       },
       {
