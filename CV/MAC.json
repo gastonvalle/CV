@@ -205,16 +205,17 @@
       },
       {
         "organization": {
-          "name": "Advanced Logistics Group"
+          "name": "Advanced Logistics Group",
+          "URL": "https://www.alg-global.com/"
         },
         "roles": [
           {
-            "name": ".Net Senior Developer - Architect",
+            "name": ".Net Senior Developer - Architect / Team Leader",
             "startDate": "2008-09-01",
             "finishDate": "2010-05-31",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "Most relevant projects\n* *TAF Helicopters projec*\n** Development of an enterprise management system for a helicopter company.\n** Role: Team Lead – Architect, Evangelizing the use of agile methods and practices.\n* *Via Bicing* \n** Interactive map to know the availability of bicycles and free slots on Bicing stations \n"
               }
             ]
           }
