@@ -481,7 +481,11 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "Scrum Alliance",
-          "URL": "https://www.scrumalliance.org/community/profile/gvalle3"
+          "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
+          "image": {
+            "alt": "1653513869114 (2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/76c29cde-6645-4687-bf03-6ec56f6e71ab_1653513869114-(2).jpg"
+          }
         }
       },
       {
