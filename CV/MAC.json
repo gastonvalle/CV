@@ -313,6 +313,12 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Product Manager",
+        "Product Owner"
+      ]
+    },
     "status": "openToOffers"
   }
 }
