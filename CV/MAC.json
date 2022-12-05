@@ -435,6 +435,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ICAgile Certified Professional - Business Agility Foundations (ICP-BAF)",
+        "startDate": "2019-04-01",
+        "institution": {
+          "name": "ICAgile",
+          "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
