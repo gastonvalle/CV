@@ -84,7 +84,12 @@
           {
             "name": "Teacher & Entrepreneur",
             "startDate": "2020-07-01",
-            "finishDate": "2021-12-01"
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -250,6 +255,11 @@
             "name": "PHP Developer",
             "startDate": "2005-02-01",
             "finishDate": "2006-02-28",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "PHP",
@@ -264,6 +274,7 @@
       {
         "details": {
           "name": "CAS 2017 - Guía de autocrecimiento del Scrum Master",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=U8rjnCqkELM"
         },
         "type": "talk",
@@ -409,6 +420,7 @@
         "startDate": "2020-10-01",
         "institution": {
           "name": "Social Enterprise España",
+          "description": "",
           "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/",
           "image": {
             "alt": "1519874257176.jpg",
@@ -423,6 +435,7 @@
         "startDate": "2020-08-01",
         "institution": {
           "name": "Purpose Alliance",
+          "description": "",
           "URL": "https://scq.io/AyNULiU",
           "image": {
             "alt": "1663240963503.jpg",
@@ -437,6 +450,7 @@
         "startDate": "2020-07-01",
         "institution": {
           "name": "OpenExO",
+          "description": "",
           "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b",
           "image": {
             "alt": "1532276337497.jpg",
@@ -451,6 +465,7 @@
         "startDate": "2019-05-01",
         "institution": {
           "name": "LCM Association",
+          "description": "",
           "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP",
           "image": {
             "alt": "1646312286016.jpg",
@@ -465,6 +480,7 @@
         "startDate": "2019-04-01",
         "institution": {
           "name": "ICAgile",
+          "description": "",
           "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c",
           "image": {
             "alt": "1596209405253.jpg",
@@ -479,6 +495,7 @@
         "startDate": "2017-04-01",
         "institution": {
           "name": "Scrum, Inc.",
+          "description": "",
           "URL": "http://scrumlab.scruminc.com",
           "image": {
             "alt": "1563287885876.jpg",
@@ -493,6 +510,7 @@
         "startDate": "2016-06-01",
         "institution": {
           "name": "The LeSS Company",
+          "description": "",
           "URL": "https://less.works/certificates/1398",
           "image": {
             "alt": "1519902869095.jpg",
@@ -507,6 +525,7 @@
         "startDate": "2016-02-01",
         "institution": {
           "name": "Scrum Alliance",
+          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
             "alt": "1653513869114 (2).jpg",
@@ -521,6 +540,7 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "Scrum Alliance",
+          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
             "alt": "1653513869114 (2).jpg",
@@ -548,6 +568,7 @@
         "finishDate": "2007-11-01",
         "institution": {
           "name": "University of Buenos Aires",
+          "description": "",
           "URL": "https://www.fi.uba.ar/"
         }
       }
