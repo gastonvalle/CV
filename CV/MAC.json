@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Gastón",
       "surnames": "Valle",
       "title": "Product Manager at LIFULL Connect | Lean & Agile Coach",
-      "description": "I help individuals, teams, and organisations to drive their Agile and digital transformation. With a focus on creating great products. Leading the change process through continuous improvement. Making sure we understand all aspects of the changes and bring out the best in each individual.\n\nI’m a software engineer with 15+ years of experience in different industries and types of organisations, with a solid technical background and very enthusiastic about building products with an lean and agile mindset. team dynamics and people relationships. I have experience in leading product teams to achieve and making them get the best version of themselves. \n\nAfter almost 9 years, I decided to shift my career towards a Scrum Master and Agile Coaching guided by my passion for Agile and mainly the human values that are involved. I love working with people and teams to help them to get the most out of themselves and find new ways of working, perspectives, and mindsets.\n\nIn the last few years, I’ve seen that a systemic and organisational approach to change management is a must to enable real agility. That’s why I work at all levels of change (personal, teams, organisational structure, processes, strategy, leadership, and culture) so that continuous improvement is made organically.",
+      "description": "I’m a software engineer with 15+ years of experience in different industries and types of organisations, with a solid technical background and very enthusiastic about building products with an lean and agile mindset. \n\nI've worked as a developer, lead of innovation, Enterprise Agile Coach and Product Manager. In a journey that gave me a good understanding of the different perspectives of an IT company. And those perspectives now help me to manage better the products and lead the product teams.\n\nIn the Product Management role I find the perfect combination of coordination, leading, creativity, data analysis and strategy.  ",
       "avatar": {
         "alt": "GV.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/26279744-f937-4ea2-b0f2-ba47c10adff4_gv.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -83,7 +84,12 @@
           {
             "name": "Teacher & Entrepreneur",
             "startDate": "2020-07-01",
-            "finishDate": "2021-12-01"
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -249,6 +255,11 @@
             "name": "PHP Developer",
             "startDate": "2005-02-01",
             "finishDate": "2006-02-28",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "PHP",
@@ -263,6 +274,7 @@
       {
         "details": {
           "name": "CAS 2017 - Guía de autocrecimiento del Scrum Master",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=U8rjnCqkELM"
         },
         "type": "talk",
@@ -288,13 +300,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -405,6 +420,7 @@
         "startDate": "2020-10-01",
         "institution": {
           "name": "Social Enterprise España",
+          "description": "",
           "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/",
           "image": {
             "alt": "1519874257176.jpg",
@@ -419,6 +435,7 @@
         "startDate": "2020-08-01",
         "institution": {
           "name": "Purpose Alliance",
+          "description": "",
           "URL": "https://scq.io/AyNULiU",
           "image": {
             "alt": "1663240963503.jpg",
@@ -433,6 +450,7 @@
         "startDate": "2020-07-01",
         "institution": {
           "name": "OpenExO",
+          "description": "",
           "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b",
           "image": {
             "alt": "1532276337497.jpg",
@@ -447,6 +465,7 @@
         "startDate": "2019-05-01",
         "institution": {
           "name": "LCM Association",
+          "description": "",
           "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP",
           "image": {
             "alt": "1646312286016.jpg",
@@ -461,6 +480,7 @@
         "startDate": "2019-04-01",
         "institution": {
           "name": "ICAgile",
+          "description": "",
           "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c",
           "image": {
             "alt": "1596209405253.jpg",
@@ -475,6 +495,7 @@
         "startDate": "2017-04-01",
         "institution": {
           "name": "Scrum, Inc.",
+          "description": "",
           "URL": "http://scrumlab.scruminc.com",
           "image": {
             "alt": "1563287885876.jpg",
@@ -489,6 +510,7 @@
         "startDate": "2016-06-01",
         "institution": {
           "name": "The LeSS Company",
+          "description": "",
           "URL": "https://less.works/certificates/1398",
           "image": {
             "alt": "1519902869095.jpg",
@@ -503,6 +525,7 @@
         "startDate": "2016-02-01",
         "institution": {
           "name": "Scrum Alliance",
+          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
             "alt": "1653513869114 (2).jpg",
@@ -517,6 +540,7 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "Scrum Alliance",
+          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
             "alt": "1653513869114 (2).jpg",
@@ -544,6 +568,7 @@
         "finishDate": "2007-11-01",
         "institution": {
           "name": "University of Buenos Aires",
+          "description": "",
           "URL": "https://www.fi.uba.ar/"
         }
       }
@@ -563,6 +588,7 @@
         "Product Manager",
         "Product Owner"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
