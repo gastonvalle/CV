@@ -8,35 +8,23 @@
     "profile": {
       "name": "Gastón",
       "surnames": "Valle",
-      "title": "Product Manager at LIFULL Connect | Lean & Agile Coach",
+      "title": "Product Manager at LIFULL Connect ",
       "description": "As a seasoned Software Engineer with over 15 years of diverse experience across multiple industries and organizational setups, I bring a strong technical foundation and a passion for delivering impactful products through a lean and agile mindset.\n\nMy journey has encompassed various roles, including Developer, Innovation Lead, Enterprise Agile Coach, and Product Manager, giving me a well-rounded understanding of the tech industry from multiple perspectives. This broad experience has equipped me with the ability to effectively manage products and lead teams in the Product Management role, which I find to be the perfect blend of coordination, leadership, creativity, data analysis, and strategy.",
       "avatar": {
-        "alt": "GV.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/26279744-f937-4ea2-b0f2-ba47c10adff4_gv.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/26279744-f937-4ea2-b0f2-ba47c10adff4_gv.jpg",
+        "alt": "GV.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
       {
         "type": "other",
         "URL": "https://gastonvalle12.wordpress.com/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/gastonvalle"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/gastonvalle"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/gastonvalle/"
       }
     ]
   },
@@ -60,23 +48,6 @@
       },
       {
         "organization": {
-          "name": "La Salle BCN",
-          "URL": "https://www.salleurl.edu/es"
-        },
-        "roles": [
-          {
-            "name": "Lecturer in Agile Methodologies",
-            "startDate": "2017-01-01",
-            "challenges": [
-              {
-                "description": "Taught +400 students with sessions, in Spanish and English, on Agile methodologies to several Masters including :\nMaster in Project Management (MPM)\nMaster in Administration of Information Technology (MGTI)\nPostgraduate in Agile Methodologies (PMA)\n\nI enjoy a lot bringing new ways of working and different mindset to the students. Making them think out of the box, exploring new approaches to manage their work.\nThese are very practical sessions covering Agile basics, Scrum, Kanban and LEAN principles with particular focus on Scrum as a framework to work with different types of projects, not only software. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "The Product Monster ",
           "URL": "http://www.theproductmonster.com/"
         },
@@ -84,12 +55,7 @@
           {
             "name": "Teacher & Entrepreneur",
             "startDate": "2020-07-01",
-            "finishDate": "2021-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2021-12-01"
           }
         ]
       },
@@ -124,6 +90,23 @@
             "challenges": [
               {
                 "description": "Leading the Agile transformation of the IT department. Working as part of IT Governance with the CIO to define the vision and strategy of change. Working to build closer relations with business, improve processes and quality, and create a collaboration culture. \n\nMain responsibilities:\n- Build a team of coaches and Scrum Masters \n- Define and evolve the strategy and implement changes iteratively. \n- Build the new organizational design to enable the agility\n- Introduce DevOps culture (plus tools and processes)\n- Work on the culture and leadership\n- Mentoring Scrum Masters \n- Coaching teams"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Salle BCN",
+          "URL": "https://www.salleurl.edu/es"
+        },
+        "roles": [
+          {
+            "name": "Lecturer in Agile Methodologies",
+            "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Taught +400 students with sessions, in Spanish and English, on Agile methodologies to several Masters including :\nMaster in Project Management (MPM)\nMaster in Administration of Information Technology (MGTI)\nPostgraduate in Agile Methodologies (PMA)\n\nI enjoy a lot bringing new ways of working and different mindset to the students. Making them think out of the box, exploring new approaches to manage their work.\nThese are very practical sessions covering Agile basics, Scrum, Kanban and LEAN principles with particular focus on Scrum as a framework to work with different types of projects, not only software. "
               }
             ]
           }
@@ -255,11 +238,6 @@
             "name": "PHP Developer",
             "startDate": "2005-02-01",
             "finishDate": "2006-02-28",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "PHP",
@@ -274,7 +252,6 @@
       {
         "details": {
           "name": "CAS 2017 - Guía de autocrecimiento del Scrum Master",
-          "description": "",
           "URL": "https://www.youtube.com/watch?v=U8rjnCqkELM"
         },
         "type": "talk",
@@ -300,52 +277,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Full professional proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MailChimp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -363,19 +310,25 @@
       },
       {
         "skill": {
-          "name": "Miro",
+          "name": "Confluence",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
           "type": "technology"
         }
       },
@@ -387,136 +340,52 @@
       },
       {
         "skill": {
-          "name": "Segment",
+          "name": "MailChimp",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Figma",
+          "name": "Miro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Segment",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Management 3.0",
-        "startDate": "2021-07-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor of Engineering - BE, Software Engineering",
+        "startDate": "2001-03-01",
         "institution": {
-          "name": "Management 3.0",
-          "description": "Credential ID: 210695217",
-          "image": {
-            "alt": "1546243653373.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/f85660e9-3bcd-47d6-bf33-9369a5cfb98d_1546243653373.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Programa Social Impact Doers",
-        "startDate": "2020-10-01",
-        "institution": {
-          "name": "Social Enterprise España",
-          "description": "",
-          "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/",
-          "image": {
-            "alt": "1519874257176.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7e6efd36-c260-4f75-8528-a15997c5b207_1519874257176.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Puepose Mentor",
-        "startDate": "2020-08-01",
-        "institution": {
-          "name": "Purpose Alliance",
-          "description": "",
-          "URL": "https://scq.io/AyNULiU",
-          "image": {
-            "alt": "1663240963503.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/e2e70d34-0696-4aa2-9b9a-19158674221b_1663240963503.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ExO Foundations",
-        "startDate": "2020-07-01",
-        "institution": {
-          "name": "OpenExO",
-          "description": "",
-          "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b",
-          "image": {
-            "alt": "1532276337497.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7286c514-1592-40c8-bc0e-936f7b5317d9_1532276337497.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Lean Change Management Explorer",
-        "startDate": "2019-05-01",
-        "institution": {
-          "name": "LCM Association",
-          "description": "",
-          "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP",
-          "image": {
-            "alt": "1646312286016.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/27a855f0-c645-4112-b47f-2bbb769bb25b_1646312286016.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ICAgile Certified Professional - Business Agility Foundations (ICP-BAF)",
-        "startDate": "2019-04-01",
-        "institution": {
-          "name": "ICAgile",
-          "description": "",
-          "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c",
-          "image": {
-            "alt": "1596209405253.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/9e152d39-3de6-4883-8448-aa65985899bf_1596209405253.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Certified Scrum@Scale Practitioner",
-        "startDate": "2017-04-01",
-        "institution": {
-          "name": "Scrum, Inc.",
-          "description": "",
-          "URL": "http://scrumlab.scruminc.com",
-          "image": {
-            "alt": "1563287885876.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/b4735cd4-46d5-4315-9b77-02f1e4040c94_1563287885876.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Less Practitioner",
-        "startDate": "2016-06-01",
-        "institution": {
-          "name": "The LeSS Company",
-          "description": "",
-          "URL": "https://less.works/certificates/1398",
-          "image": {
-            "alt": "1519902869095.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/590a9d04-e0f5-4698-8eba-f5494d6bd46c_1519902869095.jpg"
-          }
-        }
+          "name": "University of Buenos Aires",
+          "URL": "https://www.fi.uba.ar/"
+        },
+        "finishDate": "2007-11-01"
       },
       {
         "studyType": "certification",
@@ -525,11 +394,10 @@
         "startDate": "2016-02-01",
         "institution": {
           "name": "Scrum Alliance",
-          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
-            "alt": "1653513869114 (2).jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/b7d80d0e-3464-45f6-9439-e321dd10877c_1653513869114-(2).jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/b7d80d0e-3464-45f6-9439-e321dd10877c_1653513869114-(2).jpg",
+            "alt": "1653513869114 (2).jpg"
           }
         }
       },
@@ -540,11 +408,94 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "Scrum Alliance",
-          "description": "",
           "URL": "https://www.scrumalliance.org/community/profile/gvalle3",
           "image": {
-            "alt": "1653513869114 (2).jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/76c29cde-6645-4687-bf03-6ec56f6e71ab_1653513869114-(2).jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/76c29cde-6645-4687-bf03-6ec56f6e71ab_1653513869114-(2).jpg",
+            "alt": "1653513869114 (2).jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum@Scale Practitioner",
+        "startDate": "2017-04-01",
+        "institution": {
+          "name": "Scrum, Inc.",
+          "URL": "http://scrumlab.scruminc.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/b4735cd4-46d5-4315-9b77-02f1e4040c94_1563287885876.jpg",
+            "alt": "1563287885876.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ExO Foundations",
+        "startDate": "2020-07-01",
+        "institution": {
+          "name": "OpenExO",
+          "URL": "https://www.credential.net/e35d4f88-781a-480b-bb6d-f6c6f458bf9b",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7286c514-1592-40c8-bc0e-936f7b5317d9_1532276337497.jpg",
+            "alt": "1532276337497.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ICAgile Certified Professional - Business Agility Foundations (ICP-BAF)",
+        "startDate": "2019-04-01",
+        "institution": {
+          "name": "ICAgile",
+          "URL": "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/ce6019e1-be63-4d7e-9716-2b551ef6673c",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/9e152d39-3de6-4883-8448-aa65985899bf_1596209405253.jpg",
+            "alt": "1596209405253.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Lean Change Management Explorer",
+        "startDate": "2019-05-01",
+        "institution": {
+          "name": "LCM Association",
+          "URL": "https://openbadgefactory.com/c/earnablebadge/PD1WXMaALHaZF/application/PS4BOXaF7Wa2RS/evidence.html?event=PS5X2LaF7Wa2WP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/27a855f0-c645-4112-b47f-2bbb769bb25b_1646312286016.jpg",
+            "alt": "1646312286016.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Less Practitioner",
+        "startDate": "2016-06-01",
+        "institution": {
+          "name": "The LeSS Company",
+          "URL": "https://less.works/certificates/1398",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/590a9d04-e0f5-4698-8eba-f5494d6bd46c_1519902869095.jpg",
+            "alt": "1519902869095.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Management 3.0",
+        "startDate": "2021-07-01",
+        "institution": {
+          "name": "Management 3.0",
+          "description": "Credential ID: 210695217",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/f85660e9-3bcd-47d6-bf33-9369a5cfb98d_1546243653373.jpg",
+            "alt": "1546243653373.jpg"
           }
         }
       },
@@ -553,23 +504,59 @@
         "degreeAchieved": true,
         "name": "Master's degree , MMA, Master in Agile Methods",
         "startDate": "2016-09-01",
-        "finishDate": "2017-06-01",
         "institution": {
           "name": "La Salle BCN",
           "description": "Graduated with first class honours",
           "URL": "https://www.salleurl.edu"
+        },
+        "finishDate": "2017-06-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programa Social Impact Doers",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "Social Enterprise España",
+          "URL": "https://socialenterprise.es/programa-social-impact-doers-sid/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/7e6efd36-c260-4f75-8528-a15997c5b207_1519874257176.jpg",
+            "alt": "1519874257176.jpg"
+          }
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Bachelor of Engineering - BE, Software Engineering",
-        "startDate": "2001-03-01",
-        "finishDate": "2007-11-01",
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Puepose Mentor",
+        "startDate": "2020-08-01",
         "institution": {
-          "name": "University of Buenos Aires",
-          "description": "",
-          "URL": "https://www.fi.uba.ar/"
+          "name": "Purpose Alliance",
+          "URL": "https://scq.io/AyNULiU",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/e2e70d34-0696-4aa2-9b9a-19158674221b_1663240963503.jpg",
+            "alt": "1663240963503.jpg"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Comunicación verbal",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
         }
       }
     ]
@@ -578,8 +565,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/gastonvalle/"
+          "URL": "https://www.linkedin.com/in/gastonvalle/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gastonvalle",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/gastonvalle",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "gastonvalle@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "608095634",
+          "countryCode": "+34"
         }
       ]
     },
@@ -590,5 +594,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Mi trabajo ideal es en una empresa con mentalidad de producto y ágil. Donde pueda ver el impacto del trabajo que realizo con el equipo en el que estoy. Además es una empresa donde el producto o propósito conecta con mis valores y motivaciones personales.\nTener un entorno donde pueda aprender y crecer como profesional es también muy importante."
   }
 }
